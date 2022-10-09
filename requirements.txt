@@ -1,3 +1,5 @@
 pandas
 ipywidgets
+pyarrow
+fastparquet
 voila
